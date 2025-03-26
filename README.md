@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 🌱 I’m currently learning Reinforcement & Deep Learning.<br>🔭 Working on my AI/ML projects !<br><br>
 
 
