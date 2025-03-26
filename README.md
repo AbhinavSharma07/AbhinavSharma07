@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Artificial Intelligence, Machine Learning and Softyware Development<br>🔭 Working on my AI/ML projects !<br><br>
+🚀 Artificial Intelligence, Machine Learning and Software Development<br>🔭 Working on my AI/ML projects !<br><br>
 
 
 # 💻 Tech Stack:
