@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Reinforcement & Deep Learning.<br>🔭 Working on my AI/ML projects !<br><br>
+🌱 IArtificial Intelligence, Machine Learning and Softyware Development<br>🔭 Working on my AI/ML projects !<br><br>
 
 
 # 💻 Tech Stack:
